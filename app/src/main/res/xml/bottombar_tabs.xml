@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        barColorWhenSelected="@color/menu1"
+        icon="@drawable/ic_home_white_48dp"
+        id="@+id/menuHome"
+        title="Home" />/>
+    <tab
+        barColorWhenSelected="@color/menu2"
+        icon="@drawable/ic_newspaper_white_48dp"
+        id="@+id/menuNews"
+        title="Map" />
+    <tab
+        barColorWhenSelected="@color/menu3"
+        icon="@drawable/ic_clipboard_text_white_48dp"
+        id="@+id/menuPatient"
+        title="Profile" />
+    <tab
+        barColorWhenSelected="@color/menu4"
+        icon="@drawable/ic_map_marker_white_48dp"
+        id="@+id/menuLogAlert"
+        title="Profile" />
+    <tab
+        barColorWhenSelected="@color/menu5"
+        icon="@drawable/ic_settings_white_48dp"
+        id="@+id/menuUserSetting"
+        title="Profile" />
+
+</tabs>
